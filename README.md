@@ -1,1 +1,1 @@
-# anexo
+O problema do códificação é que embora a mensagem original continua sendo confidencial para o atacante, a integridade da mesangem que o receptor recebe não é garantida, isso pode ser resolvido se for combinado junto do AES-CTR um MAC, assim o atacque não vai funcionar pois qualquer mensagem diferente da original vai ser rejeitada.
